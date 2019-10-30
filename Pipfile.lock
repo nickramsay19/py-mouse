@@ -1,0 +1,64 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "e5a2883944ed55c845f5a619bcc19d82638dab247679820493b2659ba1c9ab0d"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pynput": {
+            "hashes": [
+                "sha256:9503a0fab13bdab295e432c4738395b93450e342920a4517a09ad27b0101db49",
+                "sha256:e42fe211ec05c62a54a7ac2dd0acc829121030335fac28270221a9d0d3b0f807"
+            ],
+            "index": "pypi",
+            "version": "==1.4.4"
+        },
+        "pyobjc-core": {
+            "hashes": [
+                "sha256:8b1c64a9f3fefe552a60c0f684face7315384031e6bb1f64930eecee799cb0ee",
+                "sha256:9637e3c4c53129182b68e88c450719ff9f0f4d9b915b2cf11d4c57c37643d4e3",
+                "sha256:96ef0564f718ee3e5cb1d3883a7a4ba083c0d3f4629f50cd2aedb4be62fb160a",
+                "sha256:9a4d77ac4e3e4d01567d65a0ea11530c059a3966c164dc458c8d9b0ba773b9b4"
+            ],
+            "version": "==6.0.1"
+        },
+        "pyobjc-framework-cocoa": {
+            "hashes": [
+                "sha256:6a344805d228b35fd8652a27122d12bcb3fc2e6f57bbb10609a62616a66d40da",
+                "sha256:73e6eae7de8de33b2968b0c001aebb8ced4418b8969e791f4cd95f7b722d1a26",
+                "sha256:7ad304c2665c5d91b22eb87f85f49b4571acc8a9d08bda52c0c119762243d5d8",
+                "sha256:915e0d7d1e21d6ea3bdab08fc548fad96f54b0c1cad3d799946caecc6d58e282"
+            ],
+            "version": "==6.0.1"
+        },
+        "pyobjc-framework-quartz": {
+            "hashes": [
+                "sha256:009996591e3509e68b32ece25082174195afc61bdfd19a2e37a20c6959b47d90",
+                "sha256:b93d69be73f4f31655ab0a88bae594d1dbf9446145aa63eeb7b323767bc394d1",
+                "sha256:d9ac93d47941ecbf86376c0d4e37212cbda95a579c9128affbaf50920b1b7f2d",
+                "sha256:f7ded542797f6a3a0fe86052ec0918e57394777b5fee42f9405ff17029f05542"
+            ],
+            "markers": "sys_platform == 'darwin'",
+            "version": "==6.0.1"
+        },
+        "six": {
+            "hashes": [
+                "sha256:3350809f0555b11f552448330d0b52d5f24c91a322ea4a15ef22629740f3761c",
+                "sha256:d16a0141ec1a18405cd4ce8b4613101da75da0e9a7aec5bdd4fa804d0e0eba73"
+            ],
+            "version": "==1.12.0"
+        }
+    },
+    "develop": {}
+}
